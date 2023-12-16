@@ -1,9 +1,7 @@
 body {
-    /* text-align: center;
-    padding: 50px;
-    font-family: 'Arial', sans-serif; */
+
     transition: background-image 1s ease;
-    animation: backgroundAnimation 8s infinite alternate; /* تحديد خصائص الanimation */
+    animation: backgroundAnimation 8s infinite alternate; 
 }
 
 @keyframes backgroundAnimation {
